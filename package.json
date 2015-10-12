@@ -1,6 +1,6 @@
 {
   "name": "markscript-uservices-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The server side library to deploy remote proxies of uServices from Marklogic",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -22,8 +22,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "marklogic-typescript-definitions": "^0.3.0",
-    "typescript-schema": "^0.7.7",
-    "uservices": "^0.6.0"
+    "marklogic-typescript-definitions": "^0.3.0"
   }
 }
