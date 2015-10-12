@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": true,
+        "rootDir": "./src",
+        "sourceMap": true,
+        "sourceRoot": ".",
+        "outDir": ".",
+        "moduleResolution": "node"
+    },
+    "formatCodeOptions": {
+        "indentSize": 2,
+        "tabSize": 2
+    },
+    "compileOnSave": true,
+    "exclude": [
+        "node_modules/typescript-schema",
+        "node_modules/uservices"
+    ]
+}
